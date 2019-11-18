@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/monicasangam/react-complete-guide/static/css/main.83db3ee1.chunk.css",
+    "main.js": "/monicasangam/react-complete-guide/static/js/main.6db8deee.chunk.js",
+    "main.js.map": "/monicasangam/react-complete-guide/static/js/main.6db8deee.chunk.js.map",
+    "runtime-main.js": "/monicasangam/react-complete-guide/static/js/runtime-main.510ad559.js",
+    "runtime-main.js.map": "/monicasangam/react-complete-guide/static/js/runtime-main.510ad559.js.map",
+    "static/js/2.99d09042.chunk.js": "/monicasangam/react-complete-guide/static/js/2.99d09042.chunk.js",
+    "static/js/2.99d09042.chunk.js.map": "/monicasangam/react-complete-guide/static/js/2.99d09042.chunk.js.map",
+    "index.html": "/monicasangam/react-complete-guide/index.html",
+    "precache-manifest.4f0750b213441365558b90a870b6718e.js": "/monicasangam/react-complete-guide/precache-manifest.4f0750b213441365558b90a870b6718e.js",
+    "service-worker.js": "/monicasangam/react-complete-guide/service-worker.js",
+    "static/css/main.83db3ee1.chunk.css.map": "/monicasangam/react-complete-guide/static/css/main.83db3ee1.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.510ad559.js",
+    "static/js/2.99d09042.chunk.js",
+    "static/css/main.83db3ee1.chunk.css",
+    "static/js/main.6db8deee.chunk.js"
+  ]
+}
